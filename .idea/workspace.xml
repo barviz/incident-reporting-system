@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7555facb-6d84-4ce0-9cc0-cee5ffd634b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utntp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/Gestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/GestorCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/GestorEspecialidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/GestorOperadorMesaAyuda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/GestorReporteIncidencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/GestorServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlador/GestorTecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/ClienteServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/DatosContacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/EntidadId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Especialidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/OperadorMesaAyuda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/ReporteIncidencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Servicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/TecnicoEspecialidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/persistencia/ConfigHibernate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vista/ClienteVista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vista/EspecialidadVista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vista/TecnicoVista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Yo9VM0OGwZhzFAbzyqnFk0zx76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="modelo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utntp.Main" />
+      <module name="IncidentReportingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utntp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7555facb-6d84-4ce0-9cc0-cee5ffd634b4" name="Changes" comment="" />
+      <created>1701181089559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701181089559</updated>
+    </task>
+    <servers />
+  </component>
+</project>
